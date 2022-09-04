@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="indicators.xsd" generated="2015-09-15T21:47:24">
+<indicators>
+<id_indecator>1</id_indecator>
+<indecator_name>Административные правонарушения</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>2</id_indecator>
+<indecator_name>Выявленно лиц с НОН</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>3</id_indecator>
+<indecator_name>Задержанно по статьям</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>4</id_indecator>
+<indecator_name>Изъято наркотиков</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>5</id_indecator>
+<indecator_name>Наркотическое опьянение</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>6</id_indecator>
+<indecator_name>Число преступлений с НОН</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>7</id_indecator>
+<indecator_name>Уровень безработицы (%)</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>8</id_indecator>
+<indecator_name>Среднемесячная номинальная начисленная заработная плата работников в целом по субъекту Российской Федерации / всего (руб)</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>9</id_indecator>
+<indecator_name>Концентрация доходов (коэффициент Джини)</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>10</id_indecator>
+<indecator_name>Отношение смертности к рождаемость за период</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>11</id_indecator>
+<indecator_name>Отношение разводов к числу браков за период</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>12</id_indecator>
+<indecator_name>Число преступлений, совершенных несовершеннолетними / в процентах от общего количества преступлений</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>13</id_indecator>
+<indecator_name>Удовлетворенность жизнью, % от числа опрошенных / полностью устраивает (%) / код 123.26.3</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>14</id_indecator>
+<indecator_name>Процент населения ясно вядищих перспективы в будущем</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>15</id_indecator>
+<indecator_name>Зарегистрировано браков / всего / нарастающим итогом</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>16</id_indecator>
+<indecator_name>Зарегистрировано разводов / всего / нарастающим итогом</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>17</id_indecator>
+<indecator_name>Число родившихся, за период / всего (чел) / код 111.5.1</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>18</id_indecator>
+<indecator_name>Число умерших, за период / всего / всего (чел) / код 111.15.1.1</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>19</id_indecator>
+<indecator_name>Число преступлений, совершенных несовершеннолетними / всего</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>20</id_indecator>
+<indecator_name>Зарегистрированно ВИЧ</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>21</id_indecator>
+<indecator_name>Смертность от ВИЧ</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>22</id_indecator>
+<indecator_name>Уровень безработицы (%) - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>23</id_indecator>
+<indecator_name>Среднемесячная номинальная начисленная заработная плата работников в целом по субъекту Российской Федерации / всего (руб) - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>24</id_indecator>
+<indecator_name>Концентрация доходов (коэффициент Джини) - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>25</id_indecator>
+<indecator_name>Отношение смертности к рождаемость за период - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>26</id_indecator>
+<indecator_name>Отношение разводов к числу браков за период - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>27</id_indecator>
+<indecator_name>Число преступлений, совершенных несовершеннолетними / в процентах от общего количества преступлений - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>28</id_indecator>
+<indecator_name>Удовлетворенность жизнью, % от числа опрошенных / полностью устраивает (%) / код 123.26.3 - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>29</id_indecator>
+<indecator_name>Процент населения ясно вядищих перспективы в будущем - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>30</id_indecator>
+<indecator_name>Зарегистрировано браков / всего / нарастающим итогом - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>31</id_indecator>
+<indecator_name>Зарегистрировано разводов / всего / нарастающим итогом - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>32</id_indecator>
+<indecator_name>Число родившихся, за период / всего (чел) / код 111.5.1 - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>33</id_indecator>
+<indecator_name>Число умерших, за период / всего / всего (чел) / код 111.15.1.1 - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>34</id_indecator>
+<indecator_name>Число преступлений, совершенных несовершеннолетними / всего - Нормированный</indecator_name>
+<id_group>1</id_group>
+</indicators>
+<indicators>
+<id_indecator>35</id_indecator>
+<indecator_name>Смертность от ВИЧ - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>36</id_indecator>
+<indecator_name>Зарегистрированно ВИЧ - Нормированный</indecator_name>
+<id_group>3</id_group>
+</indicators>
+<indicators>
+<id_indecator>111</id_indecator>
+<indecator_name>Состав населения в возрасте 11 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>112</id_indecator>
+<indecator_name>Состав населения в возрасте 12 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>113</id_indecator>
+<indecator_name>Состав населения в возрасте 13 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>114</id_indecator>
+<indecator_name>Состав населения в возрасте 14 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>115</id_indecator>
+<indecator_name>Состав населения в возрасте 15 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>116</id_indecator>
+<indecator_name>Состав населения в возрасте 16 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>117</id_indecator>
+<indecator_name>Состав населения в возрасте 17 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>118</id_indecator>
+<indecator_name>Состав населения в возрасте 18 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>119</id_indecator>
+<indecator_name>Состав населения в возрасте 19 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>120</id_indecator>
+<indecator_name>Состав населения в возрасте 20 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>121</id_indecator>
+<indecator_name>Состав населения в возрасте 21 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>122</id_indecator>
+<indecator_name>Состав населения в возрасте 22 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>123</id_indecator>
+<indecator_name>Состав населения в возрасте 23 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>124</id_indecator>
+<indecator_name>Состав населения в возрасте 24 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>125</id_indecator>
+<indecator_name>Состав населения в возрасте 25 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>126</id_indecator>
+<indecator_name>Состав населения в возрасте 26 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>127</id_indecator>
+<indecator_name>Состав населения в возрасте 27 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>128</id_indecator>
+<indecator_name>Состав населения в возрасте 28 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>129</id_indecator>
+<indecator_name>Состав населения в возрасте 29 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>130</id_indecator>
+<indecator_name>Состав населения в возрасте 30 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>131</id_indecator>
+<indecator_name>Состав населения в возрасте 31 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>132</id_indecator>
+<indecator_name>Состав населения в возрасте 32 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>133</id_indecator>
+<indecator_name>Состав населения в возрасте 33 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>134</id_indecator>
+<indecator_name>Состав населения в возрасте 34 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>135</id_indecator>
+<indecator_name>Состав населения в возрасте 35 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>136</id_indecator>
+<indecator_name>Состав населения в возрасте 36 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>137</id_indecator>
+<indecator_name>Состав населения в возрасте 37 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>138</id_indecator>
+<indecator_name>Состав населения в возрасте 38 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>139</id_indecator>
+<indecator_name>Состав населения в возрасте 39 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>140</id_indecator>
+<indecator_name>Состав населения в возрасте 40 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>141</id_indecator>
+<indecator_name>Состав населения в возрасте 41 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>142</id_indecator>
+<indecator_name>Состав населения в возрасте 42 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>143</id_indecator>
+<indecator_name>Состав населения в возрасте 43 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>144</id_indecator>
+<indecator_name>Состав населения в возрасте 44 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>145</id_indecator>
+<indecator_name>Состав населения в возрасте 45 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>146</id_indecator>
+<indecator_name>Состав населения в возрасте 46 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>147</id_indecator>
+<indecator_name>Состав населения в возрасте 47 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>148</id_indecator>
+<indecator_name>Состав населения в возрасте 48 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>149</id_indecator>
+<indecator_name>Состав населения в возрасте 49 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>150</id_indecator>
+<indecator_name>Состав населения в возрасте 50 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>151</id_indecator>
+<indecator_name>Состав населения в возрасте 51 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>152</id_indecator>
+<indecator_name>Состав населения в возрасте 52 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>153</id_indecator>
+<indecator_name>Состав населения в возрасте 53 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>154</id_indecator>
+<indecator_name>Состав населения в возрасте 54 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>155</id_indecator>
+<indecator_name>Состав населения в возрасте 55 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>156</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 11 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>157</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 12 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>158</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 13 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>159</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 14 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>160</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 15 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>161</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 16 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>162</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 17 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>163</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 18 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>164</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 19 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>165</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 20 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>166</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 21 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>167</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 22 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>168</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 23 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>169</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 24 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>170</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 25 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>171</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 26 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>172</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 27 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>173</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 28 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>174</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 29 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>175</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 30 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>176</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 31 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>177</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 32 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>178</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 33 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>179</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 34 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>180</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 35 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>181</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 36 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>182</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 37 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>183</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 38 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>184</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 39 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>185</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 40 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>186</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 41 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>187</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 42 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>188</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 43 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>189</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 44 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>190</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 45 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>191</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 46 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>192</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 47 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>193</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 48 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>194</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 49 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>195</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 50 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>196</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 51 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>197</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 52 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>198</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 53 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>199</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 54 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+<indicators>
+<id_indecator>200</id_indecator>
+<indecator_name>Вероятность заболеть наркоманией в возрасте 55 лет</indecator_name>
+<id_group>2</id_group>
+</indicators>
+</dataroot>

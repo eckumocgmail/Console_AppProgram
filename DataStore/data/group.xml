@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="group.xsd" generated="2015-09-15T21:50:48">
+<group>
+<id_group>1</id_group>
+<group_name>Криминогенные показатели</group_name>
+</group>
+<group>
+<id_group>2</id_group>
+<group_name>Структура и состав населения (возростсные)</group_name>
+</group>
+<group>
+<id_group>3</id_group>
+<group_name>Социально-демаграфические показатели</group_name>
+</group>
+</dataroot>

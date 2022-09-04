@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="territory.xsd" generated="2015-09-15T21:49:00">
+<territory>
+<id_territory>0</id_territory>
+<territory_name>Санкт-Петербург</territory_name>
+</territory>
+<territory>
+<id_territory>1</id_territory>
+<territory_name>Адмиралтейский район</territory_name>
+</territory>
+<territory>
+<id_territory>2</id_territory>
+<territory_name>Василеостровский район</territory_name>
+</territory>
+<territory>
+<id_territory>3</id_territory>
+<territory_name>Выборгский район</territory_name>
+</territory>
+<territory>
+<id_territory>4</id_territory>
+<territory_name>Калининский район</territory_name>
+</territory>
+<territory>
+<id_territory>5</id_territory>
+<territory_name>Кировский район</territory_name>
+</territory>
+<territory>
+<id_territory>6</id_territory>
+<territory_name>Колпинский район</territory_name>
+</territory>
+<territory>
+<id_territory>7</id_territory>
+<territory_name>Красногвардейский район</territory_name>
+</territory>
+<territory>
+<id_territory>8</id_territory>
+<territory_name>Красносельский район</territory_name>
+</territory>
+<territory>
+<id_territory>9</id_territory>
+<territory_name>Кронштадтский район</territory_name>
+</territory>
+<territory>
+<id_territory>10</id_territory>
+<territory_name>Курортный район</territory_name>
+</territory>
+<territory>
+<id_territory>11</id_territory>
+<territory_name>Московский район</territory_name>
+</territory>
+<territory>
+<id_territory>12</id_territory>
+<territory_name>Невский район</territory_name>
+</territory>
+<territory>
+<id_territory>13</id_territory>
+<territory_name>Петроградский район</territory_name>
+</territory>
+<territory>
+<id_territory>14</id_territory>
+<territory_name>Петродворцовый район</territory_name>
+</territory>
+<territory>
+<id_territory>15</id_territory>
+<territory_name>Приморский район</territory_name>
+</territory>
+<territory>
+<id_territory>16</id_territory>
+<territory_name>Пушкинский район</territory_name>
+</territory>
+<territory>
+<id_territory>17</id_territory>
+<territory_name>Фрунзенский район</territory_name>
+</territory>
+<territory>
+<id_territory>18</id_territory>
+<territory_name>Центральный район</territory_name>
+</territory>
+</dataroot>
